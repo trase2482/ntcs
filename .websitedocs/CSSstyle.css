@@ -1,0 +1,14 @@
+	#source-button{visibility:hidden;}
+	.btn-primary{
+		margin-left: 100px;
+		margin-right: 75px;
+	}
+	.btn-default{
+		margin-right: 50px;
+	}
+	.btn-danger{
+		float: right;
+	}
+	.paypal{
+		float: right;
+	}
