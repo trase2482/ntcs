@@ -1,2 +1,0 @@
-# ntcs
-Group Project 
