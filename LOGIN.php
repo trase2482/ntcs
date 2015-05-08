@@ -6,7 +6,8 @@ if (isset($_SESSION['username'])) {
 
 $error = '';
 
-if (isset($_POST['submit'])) {
+
+if (isset($_POST['submit']) && (trim($_POST['password']) != "")) {
 
 	require_once('../../connect.php');
 	
